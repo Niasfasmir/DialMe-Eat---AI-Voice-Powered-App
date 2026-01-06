@@ -1,0 +1,8 @@
+{
+  "name": "DialMe Eat - Ai Voice Food Network",
+  "description": "A voice-first food delivery application powered by Gemini 2.5 Native Audio. Create restaurants, add menu items, and order food entirely through natural conversation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
